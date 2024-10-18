@@ -120,9 +120,8 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 } exit(EXIT_SUCCESS);
 }
 
-
-
 ~~~
+
 
 
 
